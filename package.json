@@ -1,0 +1,10 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "dependencies": {
+    "canvas": "^2.11.0",
+    "sharp": "^0.32.1"
+    // other dependencies here
+  }
+}
+
